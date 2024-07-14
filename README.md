@@ -1,2 +1,2 @@
 # EmailSift
-Tool to help delete junk mail automatically
+Tool to help delete manage junk mail.
